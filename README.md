@@ -1,5 +1,5 @@
 # WeatherApp
-AndroidApp
+Semesteroppgave i Android
 
 Contributors:  
   
