@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="headerForecast">Forecast:</string>
+    <string name="headerWind">Wind:</string>
+    <string name="headerPressure">Pressure:</string>
+    <string name="headerHumidity">Humidity:</string>
+    <string name="headerCelsius">°C</string>
+    <string name="headerHPA">hpa</string>
+    <string name="headerPercentage">%</string>
+    <string name="headerMeterPerSeconds">m/s</string>
+    <string name="go_to_camera">Go to camera…</string>
+    <string name="take_picture_of_our_surrounding">Take picture of our surrounding.</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">WeatherApp</string>
+    <string name="nav_header_subtitle">Choose one of options below</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="permissions">In this application we only use your location to get the weatherdata from openweatherdata.com.
+                                    We only use your camera when you are taking a picture, this picture will be saved in internal storage.
+                                    In this application we only use writing to internal storage for your photos</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="permission">Permissions</string>
+    <string name="exit">Exit</string>
+    <string name="kautokeino">Kautokeino</string>
+</resources>
